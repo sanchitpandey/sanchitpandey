@@ -25,13 +25,13 @@ Currently preparing for high-performance Software Engineering roles (2026).
 * **Other:** Flutter, Firebase
 
 ## 🏆 Featured Projects
-* **🔹 AI Supplier Intelligence System (IndiaAI MSME)**
+* **AI Supplier Intelligence System (IndiaAI MSME)**
   Multimodal AI system combining OCR, semantic search, ranking, and hybrid retrieval for intelligent supplier discovery.
-* **🔹 Scalable Backend System (Go + PostgreSQL)**
+* **Scalable Backend System (Go + PostgreSQL)**
   Designed and optimized backend APIs with performance improvements and structured database design.
-* **🔹 Deepfake Detection using CNN + ELA**
+* **Deepfake Detection using CNN + ELA**
   Implemented model fine-tuning (ResNet50) with Early Stopping & BatchNorm achieving strong test accuracy.
-* **🔹 Full-Stack E-bike Rental Platform**
+* **Full-Stack E-bike Rental Platform**
   Cross-platform app with QR booking, real-time tracking & backend API integration.
 
 ## 📈 What I’m Currently Focused On
