@@ -4,10 +4,10 @@ I am a final-year student at BITS Pilani focused on building intelligent systems
 
 My work spans distributed systems, backend engineering, and AI/ML pipelines. I enjoy building end-to-end systems — from core algorithms and ML models to production-grade infrastructure that serves them reliably at scale.
 
-* 🔬 Built self-improving LLM pipelines using Reinforcement Learning (Dual-PPO)
-* ⚙️ Developed backend systems using Go, PostgreSQL & REST APIs
-* 📊 Designed ML systems for Deepfake Detection and intelligent ranking
-* 📱 Built production mobile & full-stack applications used by real users
+* Built self-improving LLM pipelines using Reinforcement Learning (Dual-PPO)
+* Developed backend systems using Go, PostgreSQL & REST APIs
+* Designed ML systems for Deepfake Detection and intelligent ranking
+* Built production mobile & full-stack applications used by real users
 
 Currently preparing for high-performance Software Engineering roles (2026).
 
